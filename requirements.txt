@@ -4,3 +4,8 @@ langchain_core
 langchain_community
 PyPDF2
 crewai
+crewai_tools
+onnxruntime
+litellm
+sentence-transformers
+langchain_huggingface
