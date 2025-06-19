@@ -9,3 +9,5 @@ onnxruntime
 litellm
 sentence-transformers
 langchain_huggingface
+groq
+markdown
